@@ -1,0 +1,32 @@
+-<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>REMMY HN</title>
+  </head>
+  <body>
+    <h1>REMMY HN</h1>
+    <a href="http://one">one</a>
+    <a href="http://two">two</a>
+    <a href="http://three">three</a>
+    <a href="http://four">four</a>
+    <h2>favorite foods</h2>
+    <ul>
+  <li>Apple</li>
+  <li>Pizza</li>
+  <li>Crab</li>
+  <li>Hamburguers</li>
+</ul>
+   <h2>achievements</h2>
+   <p>Progress in this course</p>
+   <progress id="file" value="100" max="100">100%</progress>
+   <p>Progress in Specialization capstone</p>
+    <progress id="file" value="25" max="100">25%</progress>
+   <p>Progress in life goals</p>
+   <progress id="file" value="85" max="100">85%</progress>
+   <h2>More about me</h2>
+   <P>In my childhood I used to go with all my family to the sea in a very large house where they met,what beautiful memories, I hope my children live</P>
+ <img src=https://www.intro-webdesign.com/images/newlogo.png alt="A WD4E Letters">
+ <p>this page was created by Remmy Hernandez and Colleen vant leen to learn more about,visit intro to <a href="url">RHN WEB DESING</a> </p>
+ </body>
+</html>
